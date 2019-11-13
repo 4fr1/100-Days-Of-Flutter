@@ -1,0 +1,4 @@
+- In a lot of apps you have to test list items by scrolling through them
+- This can be done with flutter_driver
+- scrollUntilVisible() of FlutterDriver is the best option in most of the cases
+- you can define the scroll speed and direction for the test
