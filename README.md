@@ -24,11 +24,11 @@ Feel free to fork & modify the schedule.
 
 <h3>C. Widget Testing</h3>
 
-Day 6 - Introduction (https://flutter.dev/docs/cookbook/testing/widget/introduction)
+✓ Day 6 - Introduction (https://flutter.dev/docs/cookbook/testing/widget/introduction)
 
-Day 7 - Finders (https://flutter.dev/docs/cookbook/testing/widget/finders)
+✓ Day 7 - Finders (https://flutter.dev/docs/cookbook/testing/widget/finders)
 
-Day 8 - Tap Drag (https://flutter.dev/docs/cookbook/testing/widget/tap-drag)
+✓ Day 8 - Tap Drag (https://flutter.dev/docs/cookbook/testing/widget/tap-drag)
 
 <h2>II. Animation</h2>
 
