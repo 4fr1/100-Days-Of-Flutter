@@ -18,9 +18,9 @@ Feel free to fork & modify the schedule.
 
 <h3>B. Unit Testing</h3>
 
-Day 4 - Introduction (https://flutter.dev/docs/cookbook/testing/unit/introduction)
+✓ Day 4 - Introduction (https://flutter.dev/docs/cookbook/testing/unit/introduction)
 
-Day 5 - Mockito (https://flutter.dev/docs/cookbook/testing/unit/mocking)
+✓ Day 5 - Mockito (https://flutter.dev/docs/cookbook/testing/unit/mocking)
 
 <h3>C. Widget Testing</h3>
 
