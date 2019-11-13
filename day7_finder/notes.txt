@@ -1,0 +1,5 @@
+- To locate widgets you use the Finder classes provided by flutter_test
+- It always starts with find.*
+- e.g. find.text() - finds widget by its text
+- e.g. find.byKey() - finds widget by its key
+-
