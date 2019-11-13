@@ -2,7 +2,7 @@
 
 I haven't found a schedule for #100DaysOfFlutter yet, so I'm creating my own one here ✓
 
-Most of it is from the Flutter cookbook: https://flutter.dev/docs/cookbook
+Most of it refers to the Flutter cookbook: https://flutter.dev/docs/cookbook
 
 Feel free to fork & modify the schedule.
 
@@ -10,7 +10,7 @@ Feel free to fork & modify the schedule.
 
 <h3>A. Integration Testing</h3>
 
-Day 1 - Introduction (https://flutter.dev/docs/cookbook/testing/integration/introduction)
+✓ Day 1 - Introduction (https://flutter.dev/docs/cookbook/testing/integration/introduction)
 
 Day 2 - Scrolling (https://flutter.dev/docs/cookbook/testing/integration/scrolling)
 
