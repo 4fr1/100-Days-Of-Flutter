@@ -1,0 +1,8 @@
+- Some unit tests depend on classes that fetch data e.g. from a web service or databases
+- This is inconvenient because:
+1) Calling live services or databases slows down test execution
+2) A passing test may fail if the external dependency, e.g. a web service is down (aka a "flaky test")
+3) It is difficult to test all possible success & failure scenarios by using a live web service or database
+- Therefore you can mock these external dependencies
+- You can write these alternative implementations (mocks) by hand or use Mockito as a shortcut
+-
