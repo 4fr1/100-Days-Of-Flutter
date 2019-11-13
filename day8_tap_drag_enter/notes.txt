@@ -1,0 +1,4 @@
+- Sometimes you have to test how widgets respond to user interaction
+- This can be done with flutter_test's WidgetTester
+- Methods: enterText, tap, drag
+-
