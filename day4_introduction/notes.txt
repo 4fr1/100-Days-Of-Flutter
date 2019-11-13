@@ -1,0 +1,4 @@
+- Unit tests : for verifying the behavior of a single function, method or class
+- using the packages: test, flutter_test
+- Tests generally reside in the test/ folder and are called *_test.dart
+-
