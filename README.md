@@ -12,9 +12,9 @@ Feel free to fork & modify the schedule.
 
 ✓ Day 1 - Introduction (https://flutter.dev/docs/cookbook/testing/integration/introduction)
 
-Day 2 - Scrolling (https://flutter.dev/docs/cookbook/testing/integration/scrolling)
+✓ Day 2 - Scrolling (https://flutter.dev/docs/cookbook/testing/integration/scrolling)
 
-Day 3 - Performance Profiling (https://flutter.dev/docs/cookbook/testing/integration/profiling)
+✓ Day 3 - Performance Profiling (https://flutter.dev/docs/cookbook/testing/integration/profiling)
 
 <h3>B. Unit Testing</h3>
 
