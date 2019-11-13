@@ -1,0 +1,9 @@
+- To test individual widgets you need a few more tools, which are included in the flutter_test package
+- WidgetTester() - building & interacting with widgets in a test environment
+- testWidgets() - used instead of test() - also automatically creates a WidgetTester for each test
+- Finder classes - used to search for widgets in the test environment
+- Matcher constants
+- pumpWidget() - builds and renders a specific widget inside the test environment
+- Flutter does not automatically rebuild a widget in the test environment when setState() called
+- Use tester.pump() or tester.pumpAndSettle() instead
+-
