@@ -1,6 +1,10 @@
 import 'package:flutter_driver/flutter_driver.dart';
 import 'package:test/test.dart';
 
+///
+/// Run using: flutter drive --target=test_driver/app.dart
+///
+
 void main() {
   group('Sample Tests', () {
     // Create finders for the widgets
