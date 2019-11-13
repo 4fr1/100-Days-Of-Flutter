@@ -1,0 +1,5 @@
+- Performance is critical to UX in mobile apps
+- stuttering or skipped frames = "jank"
+- You can either test your app's performance manually or with instrumentation tests
+- You can trace the performance of a test by using the traceAction() function that returns a Timeline object
+- This object can be saved to a file for further analysis
