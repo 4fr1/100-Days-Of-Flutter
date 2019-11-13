@@ -1,0 +1,11 @@
+- Unit testing only tests individual classes, functions & widgets
+- Integration tests test how individual pieces work together as a whole
+- flutter_driver package: used for creating instrumented apps
+- Widgets can be accessed by instrumentation test by using the "key" parameter
+- Integration test suites do not run in the same process as the app being tested
+- Folder name convention for instrumentation tests: test_driver
+- Then create two files; one for creating the instrumented version of the app,
+    and another one which contains the test suite
+
+Run tests command:
+flutter drive --target=test_driver/app.dart
