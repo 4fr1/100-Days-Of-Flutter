@@ -36,8 +36,32 @@ Feel free to fork & modify the schedule.
 
 ✓ Day 10 - Physics Simulation (https://flutter.dev/docs/cookbook/animation/physics-simulation)
 
-Day 11 - Animated Container (https://flutter.dev/docs/cookbook/animation/animated-container)
+✓ Day 11 - Animated Container (https://flutter.dev/docs/cookbook/animation/animated-container)
 
-Day 12 - Opacity Animation (https://flutter.dev/docs/cookbook/animation/opacity-animation)
+✓ Day 12 - Opacity Animation (https://flutter.dev/docs/cookbook/animation/opacity-animation)
+
+<h2>III. Design</h2>
+
+Day 13 - Drawer (https://flutter.dev/docs/cookbook/design/drawer)
+
+Day 14 - Snackbar (https://flutter.dev/docs/cookbook/design/snackbars)
+
+Day 15 - Fonts Package (https://flutter.dev/docs/cookbook/design/package-fonts)
+
+Day 16 - Orientation based UI (https://flutter.dev/docs/cookbook/design/orientation)
+
+Day 17 - Custom font (https://flutter.dev/docs/cookbook/design/fonts)
+
+Day 18 - Themes (https://flutter.dev/docs/cookbook/design/themes)
+
+Day 19 - Tabs (https://flutter.dev/docs/cookbook/design/tabs)
+
+<h2>IV. Gestures</h2>
+
+Day 20 - Ripples (https://flutter.dev/docs/cookbook/gestures/ripples)
+
+Day 21 - Taps (https://flutter.dev/docs/cookbook/gestures/handling-taps)
+
+Day 22 - Swipe to dismiss (https://flutter.dev/docs/cookbook/gestures/dismissible)
 
 [ More to come .. ]
