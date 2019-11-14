@@ -1,0 +1,2 @@
+- Showing and hiding widgets looks a lot better with an opacity animation
+- --> AnimatedOpacity
