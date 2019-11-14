@@ -42,7 +42,7 @@ Feel free to fork & modify the schedule.
 
 <h2>III. Design</h2>
 
-Day 13 - Drawer (https://flutter.dev/docs/cookbook/design/drawer)
+✓ Day 13 - Drawer (https://flutter.dev/docs/cookbook/design/drawer)
 
 Day 14 - Snackbar (https://flutter.dev/docs/cookbook/design/snackbars)
 
