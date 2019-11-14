@@ -1,0 +1,4 @@
+- routes = screens
+- PageRouteBuilder provides an Animation object to create a custom transition
+- You can use a Tween or Curve object to customize the transition animation
+- Curves class: predefined set of commonly used curves
