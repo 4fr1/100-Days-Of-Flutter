@@ -1,0 +1,4 @@
+- Container class: provides an easy way to create a widget with specific properties (width, height, background, ...)
+- Simple animations often involve changing these properties over time (e.g. animate background color from blue to red)
+- To do this you can use the AnimatedContainer widget, which is a Container with new properties for animation ("implicit animations")
+-
