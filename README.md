@@ -32,9 +32,9 @@ Feel free to fork & modify the schedule.
 
 <h2>II. Animation</h2>
 
-Day 9 - Page Route Animation (https://flutter.dev/docs/cookbook/animation/page-route-animation)
+✓ Day 9 - Page Route Animation (https://flutter.dev/docs/cookbook/animation/page-route-animation)
 
-Day 10 - Physics Simulation (https://flutter.dev/docs/cookbook/animation/physics-simulation)
+✓ Day 10 - Physics Simulation (https://flutter.dev/docs/cookbook/animation/physics-simulation)
 
 Day 11 - Animated Container (https://flutter.dev/docs/cookbook/animation/animated-container)
 
