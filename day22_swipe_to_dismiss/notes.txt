@@ -1,0 +1,2 @@
+- The swipe to dismiss pattern is popular in mobile apps
+- Use the Dismissable widget for it
