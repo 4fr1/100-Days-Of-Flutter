@@ -1,0 +1,5 @@
+- Use themes to share colors and font styles throughout your app
+- You can either define app-wide themes or use Theme widgets
+- To share a theme across the entire app, provide a ThemeData to the MaterialApp constructor
+- For individual parts of your application, use a Theme widget
+- Use Theme.of(context) to access your current theme
