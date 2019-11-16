@@ -1,0 +1,4 @@
+- You can create tabs using a TabController widget
+- You can use the DefaultTabController widget
+- The TabBar has to be added around your Scaffold
+- Inside your AppBar you can add the TabBar as the bottom parameter
