@@ -1,0 +1,2 @@
+- Instead of declaring a font as part of your app, you can declare a font as part of a separate package
+- This way you can provide the same font across different projects
