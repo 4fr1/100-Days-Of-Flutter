@@ -1,0 +1,2 @@
+- Ripple animations are part of Material design
+- To perform them you use the InkWell widget, which also manages tap callbacks
