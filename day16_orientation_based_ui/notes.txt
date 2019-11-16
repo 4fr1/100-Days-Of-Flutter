@@ -1,0 +1,3 @@
+- Often the app should look different for landscape and portrait mode
+- By using the orientation builder widget you can get the phone's orientation
+-
