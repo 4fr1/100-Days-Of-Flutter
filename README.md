@@ -44,15 +44,15 @@ Feel free to fork & modify the schedule.
 
 ✓ Day 13 - Drawer (https://flutter.dev/docs/cookbook/design/drawer)
 
-Day 14 - Snackbar (https://flutter.dev/docs/cookbook/design/snackbars)
+✓ Day 14 - Snackbar (https://flutter.dev/docs/cookbook/design/snackbars)
 
-Day 15 - Fonts Package (https://flutter.dev/docs/cookbook/design/package-fonts)
+✓ Day 15 - Fonts Package (https://flutter.dev/docs/cookbook/design/package-fonts)
 
-Day 16 - Orientation based UI (https://flutter.dev/docs/cookbook/design/orientation)
+✓ Day 16 - Orientation based UI (https://flutter.dev/docs/cookbook/design/orientation)
 
-Day 17 - Custom font (https://flutter.dev/docs/cookbook/design/fonts)
+✓ Day 17 - Themes (https://flutter.dev/docs/cookbook/design/themes)
 
-Day 18 - Themes (https://flutter.dev/docs/cookbook/design/themes)
+Day 18 - Custom font (https://flutter.dev/docs/cookbook/design/fonts)
 
 Day 19 - Tabs (https://flutter.dev/docs/cookbook/design/tabs)
 
