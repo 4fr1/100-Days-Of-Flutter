@@ -66,17 +66,17 @@ Feel free to fork & modify the schedule.
 
 <h2>V. Navigation</h2
 
-Day 23 - Hero Animations (https://flutter.dev/docs/cookbook/navigation/hero-animations)
+✓ Day 23 - Hero Animations (https://flutter.dev/docs/cookbook/navigation/hero-animations)
 
-Day 24 - Navigation Basics (https://flutter.dev/docs/cookbook/navigation/navigation-basics)
+✓ Day 24 - Navigation Basics (https://flutter.dev/docs/cookbook/navigation/navigation-basics)
 
-Day 25 - Named Routes (https://flutter.dev/docs/cookbook/navigation/named-routes)
+✓ Day 25 - Named Routes (https://flutter.dev/docs/cookbook/navigation/named-routes)
 
-Day 26 - Navigation with Arguments (https://flutter.dev/docs/cookbook/navigation/navigate-with-arguments)
+✓ Day 26 - Navigation with Arguments (https://flutter.dev/docs/cookbook/navigation/navigate-with-arguments)
 
-Dayd 27 - Returning data (https://flutter.dev/docs/cookbook/navigation/returning-data)
+✓ Dayd 27 - Returning data (https://flutter.dev/docs/cookbook/navigation/returning-data)
 
-Day 28 - Passing data (https://flutter.dev/docs/cookbook/navigation/passing-data)
+✓ Day 28 - Passing data (https://flutter.dev/docs/cookbook/navigation/passing-data)
 
 <h2>VI. Networking</h2>
 
