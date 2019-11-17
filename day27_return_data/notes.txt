@@ -1,0 +1,2 @@
+- You can return data from a screen using Navigator.pop()
+-
