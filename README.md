@@ -74,23 +74,23 @@ Feel free to fork & modify the schedule.
 
 ✓ Day 26 - Navigation with Arguments (https://flutter.dev/docs/cookbook/navigation/navigate-with-arguments)
 
-✓ Dayd 27 - Returning data (https://flutter.dev/docs/cookbook/navigation/returning-data)
+✓ Day 27 - Returning data (https://flutter.dev/docs/cookbook/navigation/returning-data)
 
 ✓ Day 28 - Passing data (https://flutter.dev/docs/cookbook/navigation/passing-data)
 
 <h2>VI. Networking</h2>
 
-Day 29 - Fetch data (https://flutter.dev/docs/cookbook/networking/fetch-data)
+✓ Day 29 - Fetch data (https://flutter.dev/docs/cookbook/networking/fetch-data)
 
-Day 30 - Authentication (https://flutter.dev/docs/cookbook/networking/authenticated-requests)
+✓ Day 30 - Authentication (https://flutter.dev/docs/cookbook/networking/authenticated-requests)
 
-Day 31 - Parse JSON (https://flutter.dev/docs/cookbook/networking/background-parsing)
+✓ Day 31 - Background Parsing (https://flutter.dev/docs/cookbook/networking/background-parsing)
 
-Day 32 - Web Sockets (https://flutter.dev/docs/cookbook/networking/web-sockets)
+✓ Day 32 - Web Sockets (https://flutter.dev/docs/cookbook/networking/web-sockets)
 
 <h2>VII. Persistence</h2>
 
-Day 33 - SQLite (https://flutter.dev/docs/cookbook/persistence/sqlite)
+✓ Day 33 - SQLite (https://flutter.dev/docs/cookbook/persistence/sqlite)
 
 Day 34 - Read & Write files (https://flutter.dev/docs/cookbook/persistence/reading-writing-files)
 
