@@ -1,0 +1,2 @@
+- Use the Hero widget to animate a widget from one screen to the next
+- Wrap a Hero widget around the desired widget in both screens with the same tag
