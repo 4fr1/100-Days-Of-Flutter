@@ -1,0 +1,2 @@
+- In larger apps named routes are better than pushing single routes to the navigator
+- Use Navigator.pushNamed()
