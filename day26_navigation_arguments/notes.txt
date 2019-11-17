@@ -1,0 +1,3 @@
+- To pass arguments to another screen, use the arguments parameter of the Navigator.pushNamed() function
+- You can pass arguments within a RouteSettings argument
+- You can get the arguments using ModalRoute.of or onGenerateRoute
