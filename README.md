@@ -64,71 +64,71 @@ Feel free to fork & modify the schedule.
 
 ✓ Day 22 - Swipe to dismiss (https://flutter.dev/docs/cookbook/gestures/dismissible)
 
-<h2>V. Networking</h2>
+<h2>V. Navigation</h2
 
-Day 23 - Fetch data (https://flutter.dev/docs/cookbook/networking/fetch-data)
+Day 23 - Hero Animations (https://flutter.dev/docs/cookbook/navigation/hero-animations)
 
-Day 24 - Authentication (https://flutter.dev/docs/cookbook/networking/authenticated-requests)
+Day 24 - Navigation Basics (https://flutter.dev/docs/cookbook/navigation/navigation-basics)
 
-Day 25 - Parse JSON (https://flutter.dev/docs/cookbook/networking/background-parsing)
+Day 25 - Named Routes (https://flutter.dev/docs/cookbook/navigation/named-routes)
 
-Day 26 - Web Sockets (https://flutter.dev/docs/cookbook/networking/web-sockets)
+Day 26 - Navigation with Arguments (https://flutter.dev/docs/cookbook/navigation/navigate-with-arguments)
 
-<h2>VI. Persistence</h2>
+Dayd 27 - Returning data (https://flutter.dev/docs/cookbook/navigation/returning-data)
 
-Day 27 - SQLite (https://flutter.dev/docs/cookbook/persistence/sqlite)
+Day 28 - Passing data (https://flutter.dev/docs/cookbook/navigation/passing-data)
 
-Day 28 - Read & Write files (https://flutter.dev/docs/cookbook/persistence/reading-writing-files)
+<h2>VI. Networking</h2>
 
-Day 29 - Preferences (https://flutter.dev/docs/cookbook/persistence/key-value)
+Day 29 - Fetch data (https://flutter.dev/docs/cookbook/networking/fetch-data)
 
-<h2>VII. Forms</h2>
+Day 30 - Authentication (https://flutter.dev/docs/cookbook/networking/authenticated-requests)
 
-Day 30 - Form Validation (https://flutter.dev/docs/cookbook/forms/validation)
+Day 31 - Parse JSON (https://flutter.dev/docs/cookbook/networking/background-parsing)
 
-Day 31 - Text Field Styling (https://flutter.dev/docs/cookbook/forms/text-input)
+Day 32 - Web Sockets (https://flutter.dev/docs/cookbook/networking/web-sockets)
 
-Day 32 - Text Field Focus (https://flutter.dev/docs/cookbook/forms/focus)
+<h2>VII. Persistence</h2>
 
-Day 33 - Text Field Changes (https://flutter.dev/docs/cookbook/forms/text-field-changes)
+Day 33 - SQLite (https://flutter.dev/docs/cookbook/persistence/sqlite)
 
-Day 34 - Get Text Field Value (https://flutter.dev/docs/cookbook/forms/retrieve-input)
+Day 34 - Read & Write files (https://flutter.dev/docs/cookbook/persistence/reading-writing-files)
 
-<h2>VIII. Images</h2>
+Day 35 - Preferences (https://flutter.dev/docs/cookbook/persistence/key-value)
 
-Day 35 - Internet Image (https://flutter.dev/docs/cookbook/images/network-image)
+<h2>VIII. Forms</h2>
 
-Day 36 - Image Placeholder (https://flutter.dev/docs/cookbook/images/fading-in-images)
+Day 36 - Form Validation (https://flutter.dev/docs/cookbook/forms/validation)
 
-Day 37 - Image Caching (https://flutter.dev/docs/cookbook/images/cached-images)
+Day 37 - Text Field Styling (https://flutter.dev/docs/cookbook/forms/text-input)
 
-<h2>IX. Lists</h2>
+Day 38 - Text Field Focus (https://flutter.dev/docs/cookbook/forms/focus)
 
-Day 38 - Grid List (https://flutter.dev/docs/cookbook/lists/grid-lists)
+Day 39 - Text Field Changes (https://flutter.dev/docs/cookbook/forms/text-field-changes)
 
-Day 39 - Horizontal List (https://flutter.dev/docs/cookbook/lists/horizontal-list)
+Day 40 - Get Text Field Value (https://flutter.dev/docs/cookbook/forms/retrieve-input)
 
-Day 40 - Mixed List (https://flutter.dev/docs/cookbook/lists/mixed-list)
+<h2>IX. Images</h2>
 
-Day 41 - Floating App Bar (https://flutter.dev/docs/cookbook/lists/floating-app-bar)
+Day 41 - Internet Image (https://flutter.dev/docs/cookbook/images/network-image)
 
-Day 42 - Basic List (https://flutter.dev/docs/cookbook/lists/basic-list)
+Day 42 - Image Placeholder (https://flutter.dev/docs/cookbook/images/fading-in-images)
 
-Day 43 - Long list (https://flutter.dev/docs/cookbook/lists/long-lists)
+Day 43 - Image Caching (https://flutter.dev/docs/cookbook/images/cached-images)
 
-<h2>X. Navigation</h2
+<h2>X. Lists</h2>
 
-Day 44 - Hero Animations (https://flutter.dev/docs/cookbook/navigation/hero-animations)
+Day 44 - Grid List (https://flutter.dev/docs/cookbook/lists/grid-lists)
 
-Day 45 - Navigation Basics (https://flutter.dev/docs/cookbook/navigation/navigation-basics)
+Day 45 - Horizontal List (https://flutter.dev/docs/cookbook/lists/horizontal-list)
 
-Day 46 - Named Routes (https://flutter.dev/docs/cookbook/navigation/named-routes)
+Day 46 - Mixed List (https://flutter.dev/docs/cookbook/lists/mixed-list)
 
-Day 47 - Navigation with Arguments (https://flutter.dev/docs/cookbook/navigation/navigate-with-arguments)
+Day 47 - Floating App Bar (https://flutter.dev/docs/cookbook/lists/floating-app-bar)
 
-Dayd 48 - Returning data (https://flutter.dev/docs/cookbook/navigation/returning-data)
+Day 48 - Basic List (https://flutter.dev/docs/cookbook/lists/basic-list)
 
-Day 49 - Passing data (https://flutter.dev/docs/cookbook/navigation/passing-data)
+Day 49 - Long list (https://flutter.dev/docs/cookbook/lists/long-lists)
 
 <h2>XI. Plugins</h2>
 
