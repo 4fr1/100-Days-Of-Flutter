@@ -1,0 +1,2 @@
+- For larger amounts of data, databases are a lot faster than a key-value store
+- Flutter can use SQLite databases via sqflite
