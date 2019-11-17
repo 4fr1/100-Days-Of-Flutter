@@ -1,0 +1,3 @@
+- Expensive computations should be performed in the background
+- In Flutter you can use a separate Isolate for this
+- Expensive computations should be executed using the compute() function to prevent lags
