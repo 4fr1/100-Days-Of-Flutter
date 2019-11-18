@@ -92,19 +92,19 @@ Feel free to fork & modify the schedule.
 
 ✓ Day 33 - SQLite (https://flutter.dev/docs/cookbook/persistence/sqlite)
 
-Day 34 - Read & Write files (https://flutter.dev/docs/cookbook/persistence/reading-writing-files)
+✓ Day 34 - Read & Write files (https://flutter.dev/docs/cookbook/persistence/reading-writing-files)
 
-Day 35 - Preferences (https://flutter.dev/docs/cookbook/persistence/key-value)
+✓ Day 35 - Preferences (https://flutter.dev/docs/cookbook/persistence/key-value)
 
 <h2>VIII. Forms</h2>
 
-Day 36 - Form Validation (https://flutter.dev/docs/cookbook/forms/validation)
+✓ Day 36 - Form Validation (https://flutter.dev/docs/cookbook/forms/validation)
 
-Day 37 - Text Field Styling (https://flutter.dev/docs/cookbook/forms/text-input)
+✓ Day 37 - Text Field Styling (https://flutter.dev/docs/cookbook/forms/text-input)
 
-Day 38 - Text Field Focus (https://flutter.dev/docs/cookbook/forms/focus)
+✓ Day 38 - Text Field Changes (https://flutter.dev/docs/cookbook/forms/text-field-changes)
 
-Day 39 - Text Field Changes (https://flutter.dev/docs/cookbook/forms/text-field-changes)
+Day 39 - Text Field Focus (https://flutter.dev/docs/cookbook/forms/focus)
 
 Day 40 - Get Text Field Value (https://flutter.dev/docs/cookbook/forms/retrieve-input)
 
