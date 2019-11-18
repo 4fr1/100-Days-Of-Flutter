@@ -1,0 +1,2 @@
+- Sometimes you want to have a callback function that gets called whenever the text in a text field changes (e.g. autocomplete)
+- Supply an onChanged() callback to a TextField or a TextFormField or use a TextEditingController
