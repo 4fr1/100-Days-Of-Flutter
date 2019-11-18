@@ -1,0 +1,3 @@
+- To save data to the disk we use the path_provider plugin and dart:io lib
+- The path_provider provides different default directories for all platforms (tmp, Documents, ..)
+-
