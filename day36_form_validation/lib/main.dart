@@ -26,10 +26,11 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(body: Padding(
-      padding: const EdgeInsets.all(24.0),
+      padding: const EdgeInsets.all(36.0),
       child: Center(child: CustomForm()),
     ));
   }
+  
 }
 
 class CustomForm extends StatefulWidget {
@@ -54,14 +55,23 @@ class _CustomFormState extends State<CustomForm> {
               return null;
             }),
 
-            RaisedButton(
-                onPressed: () {
-                  if (_formKey.currentState.validate()) {
-                    Scaffold.of(context)
-                        .showSnackBar(SnackBar(content: Text("Success!!")));
-                  }
-                },
-                child: Text("Check"))
+            Padding(
+              padding: const EdgeInsets.only(top: 16),
+              child: Row(
+                children: <Widget>[
+                  Expanded(
+                    child: RaisedButton(
+                        onPressed: () {
+                          if (_formKey.currentState.validate()) {
+                            Scaffold.of(context)
+                                .showSnackBar(SnackBar(content: Text("Success!!")));
+                          }
+                        },
+                        child: Text("Check")),
+                  ),
+                ],
+              ),
+            )
           ],
         ));
   }

@@ -1,0 +1,2 @@
+- Flutter provides TextField and TextFormField
+- TextField is a common text field and TextFormField is a text field that integrates with the enclosing Form
