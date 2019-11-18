@@ -1,0 +1,2 @@
+- You can auto focus a TextField or focus it when e.g. a button has been pressed
+- To focus it when event x occurred, use a FocusNode
