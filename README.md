@@ -104,31 +104,31 @@ Feel free to fork & modify the schedule.
 
 ✓ Day 38 - Text Field Changes (https://flutter.dev/docs/cookbook/forms/text-field-changes)
 
-Day 39 - Text Field Focus (https://flutter.dev/docs/cookbook/forms/focus)
+✓ Day 39 - Text Field Focus (https://flutter.dev/docs/cookbook/forms/focus)
 
-Day 40 - Get Text Field Value (https://flutter.dev/docs/cookbook/forms/retrieve-input)
+✓ Day 40 - Get Text Field Value (https://flutter.dev/docs/cookbook/forms/retrieve-input)
 
 <h2>IX. Images</h2>
 
-Day 41 - Internet Image (https://flutter.dev/docs/cookbook/images/network-image)
+✓ Day 41 - Internet Image (https://flutter.dev/docs/cookbook/images/network-image)
 
-Day 42 - Image Placeholder (https://flutter.dev/docs/cookbook/images/fading-in-images)
+✓ Day 42 - Image Placeholder (https://flutter.dev/docs/cookbook/images/fading-in-images)
 
-Day 43 - Image Caching (https://flutter.dev/docs/cookbook/images/cached-images)
+✓ Day 43 - Image Caching (https://flutter.dev/docs/cookbook/images/cached-images)
 
 <h2>X. Lists</h2>
 
-Day 44 - Grid List (https://flutter.dev/docs/cookbook/lists/grid-lists)
+✓ Day 44 - Grid List (https://flutter.dev/docs/cookbook/lists/grid-lists)
 
-Day 45 - Horizontal List (https://flutter.dev/docs/cookbook/lists/horizontal-list)
+✓ Day 45 - Horizontal List (https://flutter.dev/docs/cookbook/lists/horizontal-list)
 
-Day 46 - Mixed List (https://flutter.dev/docs/cookbook/lists/mixed-list)
+✓ Day 46 - Mixed List (https://flutter.dev/docs/cookbook/lists/mixed-list)
 
-Day 47 - Floating App Bar (https://flutter.dev/docs/cookbook/lists/floating-app-bar)
+✓ Day 47 - Floating App Bar (https://flutter.dev/docs/cookbook/lists/floating-app-bar)
 
-Day 48 - Basic List (https://flutter.dev/docs/cookbook/lists/basic-list)
+✓ Day 48 - Basic List (https://flutter.dev/docs/cookbook/lists/basic-list)
 
-Day 49 - Long list (https://flutter.dev/docs/cookbook/lists/long-lists)
+✓ Day 49 - Long list (https://flutter.dev/docs/cookbook/lists/long-lists)
 
 <h2>XI. Plugins</h2>
 
