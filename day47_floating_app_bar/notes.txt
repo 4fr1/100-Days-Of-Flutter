@@ -1,0 +1,3 @@
+- To create a floating app bar place the app bar inside a CustomScrollView
+- The widgets provided to the CustomScrollView are known as slivers
+- SliverList, SliverGridList, SliverAppBar, ...
