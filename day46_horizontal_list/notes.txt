@@ -1,0 +1,1 @@
+- To make a ListView horizontal you just have to set its scrollDirection to Axis.horizontal
