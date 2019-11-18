@@ -130,10 +130,55 @@ Feel free to fork & modify the schedule.
 
 ✓ Day 49 - Long list (https://flutter.dev/docs/cookbook/lists/long-lists)
 
-<h2>XI. Plugins</h2>
+<h2>XI. Dev Tools</h2>
 
-Day 50 - Play Video (https://flutter.dev/docs/cookbook/plugins/play-video)
+Overview: https://flutter.dev/docs/development/tools/devtools/overview
 
-Day 51 - Take Photo (https://flutter.dev/docs/cookbook/plugins/picture-using-camera)
+Day 50 - Flutter Inspector (https://flutter.dev/docs/development/tools/devtools/inspector)
+
+Day 51 - Timeline View (https://flutter.dev/docs/development/tools/devtools/timeline)
+
+Day 52 - Memory View (https://flutter.dev/docs/development/tools/devtools/memory)
+
+Day 53 - Performance View (https://flutter.dev/docs/development/tools/devtools/performance)
+
+Day 54 - Debugger (https://flutter.dev/docs/development/tools/devtools/debugger)
+
+Day 55 - Logging View (https://flutter.dev/docs/development/tools/devtools/logging)
+
+Day 56 - Hot Reload (https://flutter.dev/docs/development/tools/hot-reload)
+
+<h2>XII. Data & Backend </h2>
+
+Day 57 - State Management (https://flutter.dev/docs/development/data-and-backend/state-mgmt/intro,
+          https://flutter.dev/docs/development/data-and-backend/state-mgmt/declarative ,
+         https://flutter.dev/docs/development/data-and-backend/state-mgmt/ephemeral-vs-app,
+         https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple)
+
+Day 58 - JSON & Serialization (https://flutter.dev/docs/development/data-and-backend/json)
+
+Day 59 - Firebase Chat App (https://medium.com/flutter-community/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e)
+
+<h2>XIII. User interface </h2>
+
+Day 60 - Widgets Introduction (https://flutter.dev/docs/development/ui/widgets-intro)
+
+Day 61 - Layouts (https://flutter.dev/docs/development/ui/layout)
+
+Day 62 - Interactivity (https://flutter.dev/docs/development/ui/interactive)
+
+Day 63 - Assets & Images (https://flutter.dev/docs/development/ui/assets-and-images)
+
+Day 64 - Slivers (https://medium.com/flutter/slivers-demystified-6ff68ab0296f)
+
+Day 65 - Accessibility (https://flutter.dev/docs/development/accessibility-and-localization/accessibility)
+
+Day 66 - Localization (https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+
+<h2>XIV. Multimedia</h2>
+
+Day 67 - Play Video (https://flutter.dev/docs/cookbook/plugins/play-video)
+
+Day 68 - Take Photo (https://flutter.dev/docs/cookbook/plugins/picture-using-camera)
 
 [ More to come .. ]
