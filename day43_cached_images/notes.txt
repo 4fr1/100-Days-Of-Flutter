@@ -1,0 +1,1 @@
+- The cached_network_image package allows caching images from the internet & also supports placeholders

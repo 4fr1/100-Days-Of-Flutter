@@ -1,0 +1,5 @@
+- Sometimes you want to display your items in a grid rather than in a normal list
+- For this you can use GridView
+- The easiest way is using the GridView.count() method. It allows you to specify how many rows or columns you'd like
+- Main axis is the axis in which a column / row / listview / gridview is supposed to scroll
+- The cross axis is the opposite
