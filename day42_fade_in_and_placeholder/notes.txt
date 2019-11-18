@@ -1,0 +1,2 @@
+- It's nicer to have a placeholder that fades into the image downloaded from the internet
+- For this use the transparent_image package and the FadeInImage.memoryNetwork method
