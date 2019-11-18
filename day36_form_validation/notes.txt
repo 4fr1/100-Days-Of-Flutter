@@ -1,0 +1,4 @@
+- The Form widget acts as a container for grouping and validating multiple form fields
+- The Form needs a GlobalKey to be identifiable
+- TextFormField is a TextField that validates input using a validator Function
+- The validator Function returns null when there are no errors. Otherwise it returns the error string
