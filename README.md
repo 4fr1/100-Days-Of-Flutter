@@ -134,51 +134,53 @@ Feel free to fork & modify the schedule.
 
 Overview: https://flutter.dev/docs/development/tools/devtools/overview
 
-Day 50 - Flutter Inspector (https://flutter.dev/docs/development/tools/devtools/inspector)
+Day 50:
 
-Day 51 - Timeline View (https://flutter.dev/docs/development/tools/devtools/timeline)
+Flutter Inspector (https://flutter.dev/docs/development/tools/devtools/inspector)
 
-Day 52 - Memory View (https://flutter.dev/docs/development/tools/devtools/memory)
+Timeline View (https://flutter.dev/docs/development/tools/devtools/timeline)
 
-Day 53 - Performance View (https://flutter.dev/docs/development/tools/devtools/performance)
+Memory View (https://flutter.dev/docs/development/tools/devtools/memory)
 
-Day 54 - Debugger (https://flutter.dev/docs/development/tools/devtools/debugger)
+Performance View (https://flutter.dev/docs/development/tools/devtools/performance)
 
-Day 55 - Logging View (https://flutter.dev/docs/development/tools/devtools/logging)
+Debugger (https://flutter.dev/docs/development/tools/devtools/debugger)
 
-Day 56 - Hot Reload (https://flutter.dev/docs/development/tools/hot-reload)
+Logging View (https://flutter.dev/docs/development/tools/devtools/logging)
+
+Hot Reload (https://flutter.dev/docs/development/tools/hot-reload)
 
 <h2>XII. Data & Backend </h2>
 
-Day 57 - State Management (https://flutter.dev/docs/development/data-and-backend/state-mgmt/intro,
+Day 51 - State Management (https://flutter.dev/docs/development/data-and-backend/state-mgmt/intro,
           https://flutter.dev/docs/development/data-and-backend/state-mgmt/declarative ,
          https://flutter.dev/docs/development/data-and-backend/state-mgmt/ephemeral-vs-app,
          https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple)
 
-Day 58 - JSON & Serialization (https://flutter.dev/docs/development/data-and-backend/json)
+Day 52 - JSON & Serialization (https://flutter.dev/docs/development/data-and-backend/json)
 
-Day 59 - Firebase Chat App (https://medium.com/flutter-community/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e)
+Day 53 - Firebase Chat App (https://medium.com/flutter-community/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e)
 
 <h2>XIII. User interface </h2>
 
-Day 60 - Widgets Introduction (https://flutter.dev/docs/development/ui/widgets-intro)
+Day 54 - Widgets Introduction (https://flutter.dev/docs/development/ui/widgets-intro)
 
-Day 61 - Layouts (https://flutter.dev/docs/development/ui/layout)
+Day 55 - Layouts (https://flutter.dev/docs/development/ui/layout)
 
-Day 62 - Interactivity (https://flutter.dev/docs/development/ui/interactive)
+Day 56 - Interactivity (https://flutter.dev/docs/development/ui/interactive)
 
-Day 63 - Assets & Images (https://flutter.dev/docs/development/ui/assets-and-images)
+Day 57 - Assets & Images (https://flutter.dev/docs/development/ui/assets-and-images)
 
-Day 64 - Slivers (https://medium.com/flutter/slivers-demystified-6ff68ab0296f)
+Day 58 - Slivers (https://medium.com/flutter/slivers-demystified-6ff68ab0296f)
 
-Day 65 - Accessibility (https://flutter.dev/docs/development/accessibility-and-localization/accessibility)
+Day 59 - Accessibility (https://flutter.dev/docs/development/accessibility-and-localization/accessibility)
 
-Day 66 - Localization (https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+Day 60 - Localization (https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
 
 <h2>XIV. Multimedia</h2>
 
-Day 67 - Play Video (https://flutter.dev/docs/cookbook/plugins/play-video)
+Day 61 - Play Video (https://flutter.dev/docs/cookbook/plugins/play-video)
 
-Day 68 - Take Photo (https://flutter.dev/docs/cookbook/plugins/picture-using-camera)
+Day 62 - Take Photo (https://flutter.dev/docs/cookbook/plugins/picture-using-camera)
 
 [ More to come .. ]
