@@ -130,27 +130,7 @@ Feel free to fork & modify the schedule.
 
 ✓ Day 49 - Long list (https://flutter.dev/docs/cookbook/lists/long-lists)
 
-<h2>XI. Dev Tools</h2>
-
-Overview: https://flutter.dev/docs/development/tools/devtools/overview
-
-Day 50:
-
-Flutter Inspector (https://flutter.dev/docs/development/tools/devtools/inspector)
-
-Timeline View (https://flutter.dev/docs/development/tools/devtools/timeline)
-
-Memory View (https://flutter.dev/docs/development/tools/devtools/memory)
-
-Performance View (https://flutter.dev/docs/development/tools/devtools/performance)
-
-Debugger (https://flutter.dev/docs/development/tools/devtools/debugger)
-
-Logging View (https://flutter.dev/docs/development/tools/devtools/logging)
-
-Hot Reload (https://flutter.dev/docs/development/tools/hot-reload)
-
-<h2>XII. Data & Backend </h2>
+<h2>XI. Data & Backend </h2>
 
 Day 51 - State Management (https://flutter.dev/docs/development/data-and-backend/state-mgmt/intro,
           https://flutter.dev/docs/development/data-and-backend/state-mgmt/declarative ,
@@ -161,7 +141,7 @@ Day 52 - JSON & Serialization (https://flutter.dev/docs/development/data-and-bac
 
 Day 53 - Firebase Chat App (https://medium.com/flutter-community/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e)
 
-<h2>XIII. User interface </h2>
+<h2>XII. User interface </h2>
 
 Day 54 - Widgets Introduction (https://flutter.dev/docs/development/ui/widgets-intro)
 
@@ -177,7 +157,7 @@ Day 59 - Accessibility (https://flutter.dev/docs/development/accessibility-and-l
 
 Day 60 - Localization (https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
 
-<h2>XIV. Multimedia</h2>
+<h2>XIII. Multimedia</h2>
 
 Day 61 - Play Video (https://flutter.dev/docs/cookbook/plugins/play-video)
 
