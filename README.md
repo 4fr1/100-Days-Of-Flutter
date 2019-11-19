@@ -132,35 +132,35 @@ Feel free to fork & modify the schedule.
 
 <h2>XI. Data & Backend </h2>
 
-Day 51 - State Management (https://flutter.dev/docs/development/data-and-backend/state-mgmt/intro,
+✓ Day 50 - State Management (https://flutter.dev/docs/development/data-and-backend/state-mgmt/intro,
           https://flutter.dev/docs/development/data-and-backend/state-mgmt/declarative ,
          https://flutter.dev/docs/development/data-and-backend/state-mgmt/ephemeral-vs-app,
          https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple)
 
-Day 52 - JSON & Serialization (https://flutter.dev/docs/development/data-and-backend/json)
+Day 51 - JSON & Serialization (https://flutter.dev/docs/development/data-and-backend/json)
 
-Day 53 - Firebase Chat App (https://medium.com/flutter-community/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e)
+Day 52 - Firebase Chat App (https://medium.com/flutter-community/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e)
 
 <h2>XII. User interface </h2>
 
-Day 54 - Widgets Introduction (https://flutter.dev/docs/development/ui/widgets-intro)
+Day 53 - Widgets Introduction (https://flutter.dev/docs/development/ui/widgets-intro)
 
-Day 55 - Layouts (https://flutter.dev/docs/development/ui/layout)
+Day 54 - Layouts (https://flutter.dev/docs/development/ui/layout)
 
-Day 56 - Interactivity (https://flutter.dev/docs/development/ui/interactive)
+Day 55 - Interactivity (https://flutter.dev/docs/development/ui/interactive)
 
-Day 57 - Assets & Images (https://flutter.dev/docs/development/ui/assets-and-images)
+Day 56 - Assets & Images (https://flutter.dev/docs/development/ui/assets-and-images)
 
-Day 58 - Slivers (https://medium.com/flutter/slivers-demystified-6ff68ab0296f)
+Day 57 - Slivers (https://medium.com/flutter/slivers-demystified-6ff68ab0296f)
 
-Day 59 - Accessibility (https://flutter.dev/docs/development/accessibility-and-localization/accessibility)
+Day 58 - Accessibility (https://flutter.dev/docs/development/accessibility-and-localization/accessibility)
 
-Day 60 - Localization (https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+Day 59 - Localization (https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
 
 <h2>XIII. Multimedia</h2>
 
-Day 61 - Play Video (https://flutter.dev/docs/cookbook/plugins/play-video)
+Day 60 - Play Video (https://flutter.dev/docs/cookbook/plugins/play-video)
 
-Day 62 - Take Photo (https://flutter.dev/docs/cookbook/plugins/picture-using-camera)
+Day 61 - Take Photo (https://flutter.dev/docs/cookbook/plugins/picture-using-camera)
 
 [ More to come .. ]
