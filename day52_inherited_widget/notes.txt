@@ -1,0 +1,2 @@
+- Handing parameters down a widget tree can become very unhandy and lead to a lot of boilerplate code
+- Inside an InheritedWidget you can story anything you want and access it deeper down in the widget tree
