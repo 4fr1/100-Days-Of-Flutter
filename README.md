@@ -104,36 +104,59 @@ Feel free to fork & modify the schedule.
 
 ✓ Day 38 - Text Field Changes (https://flutter.dev/docs/cookbook/forms/text-field-changes)
 
-Day 39 - Text Field Focus (https://flutter.dev/docs/cookbook/forms/focus)
+✓ Day 39 - Text Field Focus (https://flutter.dev/docs/cookbook/forms/focus)
 
-Day 40 - Get Text Field Value (https://flutter.dev/docs/cookbook/forms/retrieve-input)
+✓ Day 40 - Get Text Field Value (https://flutter.dev/docs/cookbook/forms/retrieve-input)
 
 <h2>IX. Images</h2>
 
-Day 41 - Internet Image (https://flutter.dev/docs/cookbook/images/network-image)
+✓ Day 41 - Internet Image (https://flutter.dev/docs/cookbook/images/network-image)
 
-Day 42 - Image Placeholder (https://flutter.dev/docs/cookbook/images/fading-in-images)
+✓ Day 42 - Image Placeholder (https://flutter.dev/docs/cookbook/images/fading-in-images)
 
-Day 43 - Image Caching (https://flutter.dev/docs/cookbook/images/cached-images)
+✓ Day 43 - Image Caching (https://flutter.dev/docs/cookbook/images/cached-images)
 
 <h2>X. Lists</h2>
 
-Day 44 - Grid List (https://flutter.dev/docs/cookbook/lists/grid-lists)
+✓ Day 44 - Grid List (https://flutter.dev/docs/cookbook/lists/grid-lists)
 
-Day 45 - Horizontal List (https://flutter.dev/docs/cookbook/lists/horizontal-list)
+✓ Day 45 - Horizontal List (https://flutter.dev/docs/cookbook/lists/horizontal-list)
 
-Day 46 - Mixed List (https://flutter.dev/docs/cookbook/lists/mixed-list)
+✓ Day 46 - Mixed List (https://flutter.dev/docs/cookbook/lists/mixed-list)
 
-Day 47 - Floating App Bar (https://flutter.dev/docs/cookbook/lists/floating-app-bar)
+✓ Day 47 - Floating App Bar (https://flutter.dev/docs/cookbook/lists/floating-app-bar)
 
-Day 48 - Basic List (https://flutter.dev/docs/cookbook/lists/basic-list)
+✓ Day 48 - Basic List (https://flutter.dev/docs/cookbook/lists/basic-list)
 
-Day 49 - Long list (https://flutter.dev/docs/cookbook/lists/long-lists)
+✓ Day 49 - Long list (https://flutter.dev/docs/cookbook/lists/long-lists)
 
-<h2>XI. Plugins</h2>
+<h2>XI. Miscellaneous </h2>
 
-Day 50 - Play Video (https://flutter.dev/docs/cookbook/plugins/play-video)
+✓ Day 50 - State Management (https://flutter.dev/docs/development/data-and-backend/state-mgmt/intro,
+          https://flutter.dev/docs/development/data-and-backend/state-mgmt/declarative ,
+         https://flutter.dev/docs/development/data-and-backend/state-mgmt/ephemeral-vs-app,
+         https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple)
 
-Day 51 - Take Photo (https://flutter.dev/docs/cookbook/plugins/picture-using-camera)
+Day 51 - Firebase Chat App (https://medium.com/flutter-community/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e)
+
+
+ - Widgets Introduction (https://flutter.dev/docs/development/ui/widgets-intro)
+
+ - Layouts (https://flutter.dev/docs/development/ui/layout)
+
+ - Interactivity (https://flutter.dev/docs/development/ui/interactive)
+
+ - Assets & Images (https://flutter.dev/docs/development/ui/assets-and-images)
+
+ - Slivers (https://medium.com/flutter/slivers-demystified-6ff68ab0296f)
+
+ - Accessibility (https://flutter.dev/docs/development/accessibility-and-localization/accessibility)
+
+ - Localization (https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+
+
+ - Play Video (https://flutter.dev/docs/cookbook/plugins/play-video)
+
+ - Take Photo (https://flutter.dev/docs/cookbook/plugins/picture-using-camera)
 
 [ More to come .. ]
