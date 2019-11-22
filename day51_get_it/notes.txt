@@ -1,0 +1,2 @@
+- Allows you to register your class types and request them from anywhere where you have access to the container
+- With get_it you can register class types in two ways: Factory or Singleton
