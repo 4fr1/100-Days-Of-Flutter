@@ -137,26 +137,30 @@ Feel free to fork & modify the schedule.
          https://flutter.dev/docs/development/data-and-backend/state-mgmt/ephemeral-vs-app,
          https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple)
 
-Day 51 - Firebase Chat App (https://medium.com/flutter-community/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e)
+✓ Day 51 - get_it DI (https://medium.com/filledstacks/dependency-injection-in-flutter-2225d3081f61)
 
+✓ Day 52 - InheritedWidgets
 
- - Widgets Introduction (https://flutter.dev/docs/development/ui/widgets-intro)
+✓ Day 53 - Flutter For Web (https://medium.com/flutter-community/flutter-create-and-deploy-a-website-from-scratch-4a026ebd6c)
 
- - Layouts (https://flutter.dev/docs/development/ui/layout)
+x - Firebase Chat App (https://medium.com/flutter-community/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e)
 
- - Interactivity (https://flutter.dev/docs/development/ui/interactive)
+x - Widgets Introduction (https://flutter.dev/docs/development/ui/widgets-intro)
 
- - Assets & Images (https://flutter.dev/docs/development/ui/assets-and-images)
+x - Layouts (https://flutter.dev/docs/development/ui/layout)
 
- - Slivers (https://medium.com/flutter/slivers-demystified-6ff68ab0296f)
+x - Interactivity (https://flutter.dev/docs/development/ui/interactive)
 
- - Accessibility (https://flutter.dev/docs/development/accessibility-and-localization/accessibility)
+x - Assets & Images (https://flutter.dev/docs/development/ui/assets-and-images)
 
- - Localization (https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+x - Slivers (https://medium.com/flutter/slivers-demystified-6ff68ab0296f)
 
+x - Accessibility (https://flutter.dev/docs/development/accessibility-and-localization/accessibility)
 
- - Play Video (https://flutter.dev/docs/cookbook/plugins/play-video)
+x - Localization (https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
 
- - Take Photo (https://flutter.dev/docs/cookbook/plugins/picture-using-camera)
+x - Play Video (https://flutter.dev/docs/cookbook/plugins/play-video)
+
+x - Take Photo (https://flutter.dev/docs/cookbook/plugins/picture-using-camera)
 
 [ More to come .. ]
