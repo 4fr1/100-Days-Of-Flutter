@@ -143,6 +143,12 @@ Feel free to fork & modify the schedule.
 
 ✓ Day 53 - Flutter For Web (https://medium.com/flutter-community/flutter-create-and-deploy-a-website-from-scratch-4a026ebd6c)
 
+✓ Day 54 - Mixins (https://www.youtube.com/watch?v=pJHTyhzt9JU)
+
+x - Extension Methods (https://www.youtube.com/watch?v=GkEuRVkeLpw)
+
+x - Sealed Unions (https://www.youtube.com/watch?v=AG8pwM6f130)
+
 x - Firebase Chat App (https://medium.com/flutter-community/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e)
 
 x - Widgets Introduction (https://flutter.dev/docs/development/ui/widgets-intro)
