@@ -64,7 +64,7 @@ Feel free to fork & modify the schedule.
 
 - [x] Day 22 - Swipe to dismiss (https://flutter.dev/docs/cookbook/gestures/dismissible)
 
-<h2>V. Navigation</h2
+<h2>V. Navigation</h2>
 
 - [x] Day 23 - Hero Animations (https://flutter.dev/docs/cookbook/navigation/hero-animations)
 
