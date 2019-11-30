@@ -145,11 +145,11 @@ Feel free to fork & modify the schedule.
 
 - [x] Day 54 - Mixins (https://www.youtube.com/watch?v=pJHTyhzt9JU)
 
+- [ ] Day 55 - Firebase Chat App (https://medium.com/flutter-community/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e)
+
 x - Extension Methods (https://www.youtube.com/watch?v=GkEuRVkeLpw)
 
 x - Sealed Unions (https://www.youtube.com/watch?v=AG8pwM6f130)
-
-x - Firebase Chat App (https://medium.com/flutter-community/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e)
 
 x - Widgets Introduction (https://flutter.dev/docs/development/ui/widgets-intro)
 
